@@ -1,0 +1,16 @@
+# تجاهل البيئة الافتراضية
+venv/
+.env
+
+# تجاهل مجلدات البايثون
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# تجاهل Jupyter checkpoints
+.ipynb_checkpoints/
+
+# تجاهل ملفات النظام
+.DS_Store
+Thumbs.db
